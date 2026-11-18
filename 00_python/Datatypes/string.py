@@ -36,8 +36,8 @@ print("find method : ",sentence.find('me'))
 
 #The index() method returns the index of a substring inside the string (if found). 
 # If the substring is not found, it raises an exception.
-result = sentence.index('is')
-print(result)
+# result = sentence.index('is')
+# print(result)
 
 
 #The string join() method returns a string by joining all the elements 
